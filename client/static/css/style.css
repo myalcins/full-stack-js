@@ -18,3 +18,8 @@ form, #todos {
     text-align: center;
     padding: 10px;
 }
+
+.todo > div > button {
+    margin-left: 2px;
+}
+
