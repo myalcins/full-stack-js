@@ -12,5 +12,4 @@
 
 ### database
 
-I used this guide.
-[a link] (https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
+[I used this guide](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
